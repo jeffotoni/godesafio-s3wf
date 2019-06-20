@@ -36,7 +36,7 @@ Ele irá retornar um JSON quando der erro e um JSON com for sucesso.
 {  
    "status":"success",
    "message":"Usuario encontrado  e token gerado",
-  "tokenjwt":"eyJhbGciOiJSUzI1NiIWTC17vpzeYR0I14qkna_hbMZWbOPqTaWwDsn_Ace6QEInv7dTBaz48_eom9qWcX18NGmhTvpiHekqNYMt-RkOM8Hjc5DYNJuqyEy3gvy_IMjcu2w-hl2yHilvPNP_UK0oc1ebF2pUxaKdsD5oS5fV-TYlfH_k",
+  "tokenjwt":"eyJhbGciOi-RkOM8Hjc5DYNJuqyEy3gvy_IMjcu2w-hl2yHilvPNP_UK0ocUxaKdsD5oS5fV-TYlfH_k",
    "expires":"2019-07-20",
    "tokenmsg":"use o token para acessar os endpoints!",
    "Login":{ 
