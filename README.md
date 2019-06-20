@@ -51,10 +51,12 @@ Ele irá retornar um JSON quando der erro e um JSON com for sucesso.
 ```
 
 **HTTP/2 500**
+```json
 {  
    "status":"error",
    "message":"Usuário não pode ser autenticado!"
 }
+```
 
 ## User
 
